@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Productslist xmlns:amazon="https:www.example.com/amazon" xmlns:daraz="https:www.example.com/daraz">
+    <amazon:Products>
+        <amazon:Title>Laptop</amazon:Title>
+        <amazon:Name>HP Pro Book</amazon:Name>
+        <amazon:Price>31k</amazon:Price>
+    </amazon:Products>
+    <daraz:Products>
+        <daraz:Title>Laptop</daraz:Title>
+        <daraz:Name>HP</daraz:Name>
+        <daraz:Price>Nhi Pata</daraz:Price>
+    </daraz:Products>
+
+
+</Productslist>

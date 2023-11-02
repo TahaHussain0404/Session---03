@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data.xsl" type="text/xsl"?>
+
+<class>
+    <Student>
+        <name>Taha Hussain</name>
+        <course>DISM</course> 
+        <fees>12345</fees>
+    </Student>
+    <Student>
+        <name>Hassan</name>
+        <course>DISM</course> 
+        <fees>12345</fees>
+    </Student>
+    <Student>
+        <name>Taimor</name>
+        <course>DISM</course> 
+        <fees>12345</fees>
+    </Student>
+</class>
+    

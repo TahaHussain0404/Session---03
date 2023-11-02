@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<!DOCTYPE Student [
+<!-- <!ELEMENT Student (Name,Email)> -->
+<!-- <!ELEMENT Name (#PCDATA)> -->
+<!-- <!ELEMENT Batch (#PCDATA)> -->
+<!-- <!ELEMENT Email (#PCDATA)> -->
+<!-- <!ELEMENT Phone (#PCDATA)> -->
+]>
+
+<Student>
+    <Class>
+
+        <Name>Taha</Name>
+        <Batch>2023-05B</Batch>
+        <Email>taha@gmail.com</Email>
+        <Phone>123456789</Phone>
+    </Class>
+
+</Student>
